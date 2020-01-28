@@ -1,0 +1,35 @@
+/* Style of the different tags*/
+body {
+/*  background-image: url("../images/Mayank.png");*/
+  background-color: #eaf6f6;
+}
+
+hr {
+  color: green;
+  width: 80%;
+  border-color: green;
+  border-width: 2px;
+  border-style: dotted none none;
+}
+
+a:link, a:visited {
+  color: forestgreen;
+  text-decoration: none;
+}
+a:hover{
+  color: cornflowerblue;
+}
+
+/* Style of the different Class*/
+.h3title{
+  color: lightcoral;
+}
+
+.img-circular{
+  border-radius: 30%;
+}
+
+/* Style of the different ID*/
+#heading{
+  color: cornflowerblue;
+}
