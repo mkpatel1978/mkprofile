@@ -5,9 +5,16 @@
   margin-top: 1rem;
 }
 
-.TableStyle{
-  border-radius: 0;
-  cellspacing:10;
+.TableStyle {
+  text-align: left;
+  padding: 0.2rem 3rem 0.2rem 0;
+
+}
+.TableHead{
+  color: brown;
+
+    padding-bottom: 10px;
+
 }
 
 .middle-header {
