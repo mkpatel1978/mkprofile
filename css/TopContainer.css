@@ -1,0 +1,43 @@
+/* Style of the different tags*/
+body {
+  /*  background-image: url("../images/Mayank.png");*/
+  background-color: #EAF6F6;
+  margin: 0px;
+  /*text-align: center;*/
+}
+
+.Top-Container {
+  font-family: 'Dancing Script', cursive;
+  font-size: 120%;
+}
+
+.Profile {
+  text-align: right;
+  margin-top: -6rem;
+  margin-right: 100px;
+}
+
+#Top-Img {
+  border-radius: 3rem;
+  /*  position: absolute;*/
+  padding-top: 1rem;
+  width: 10rem;
+  margin-left: 5rem;
+}
+
+#Top-h1 {
+  color: cornflowerblue;
+  font-size: 130%;
+  width: 40rem;
+  position: absolute;
+  margin: -3rem auto 0 9rem;
+}
+
+#Top-link:link, #Top-link:visited {
+  color: forestgreen;
+  text-decoration: none;
+}
+
+#Top-link:hover {
+  color: cornflowerblue;
+}

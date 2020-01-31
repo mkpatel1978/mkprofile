@@ -1,0 +1,20 @@
+.Middle-Container {
+  font-family: serif;
+  margin-left: 4rem;
+  margin-top: 1rem;
+}
+
+.middle-header {
+  color: #00918e;
+}
+
+.middle-img {
+  width: 4rem;
+  margin-left: -2rem;
+  margin-top: 1rem;
+}
+
+.Middle-common-div {
+  margin-left: 4rem;
+  margin-top: -4rem;
+}
