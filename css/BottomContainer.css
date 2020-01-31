@@ -1,0 +1,21 @@
+
+.Bottom-Container {
+  font-family: 'Dancing Script', cursive;
+  font-size: 120%;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+
+.footer-link:link, .footer-link:visited {
+  color: #fa697c;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: cornflowerblue;
+}
+
+.footer{
+  color: #854836;
+}
