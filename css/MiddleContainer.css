@@ -18,3 +18,12 @@
   margin-left: 4rem;
   margin-top: -4rem;
 }
+
+.middle-link:visited, .middle-link:link {
+  color: cornflowerblue;
+  text-decoration: none;
+}
+
+.middle-link:hover {
+  color: #fa697c;
+}
