@@ -3,7 +3,6 @@ body {
   /*  background-image: url("../images/Mayank.png");*/
   background-color: #EAF6F6;
   margin: 0px;
-  /*text-align: center;*/
 }
 
 .Top-Container {
@@ -36,8 +35,8 @@ body {
 .Top-content{
   font-size: 1rem;
   width: 78rem;
-
 }
+
 #Top-link:link, #Top-link:visited {
   color: forestgreen;
   text-decoration: none;

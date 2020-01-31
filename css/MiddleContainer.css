@@ -1,5 +1,5 @@
 .Middle-Container {
-  font-family: sans-serif;
+  font-family: 'Noto Serif', serif;
   font-size: 120%;
   margin-left: 4rem;
   margin-top: 1rem;
@@ -8,13 +8,13 @@
 .TableStyle {
   text-align: left;
   padding: 0.2rem 3rem 0.2rem 0;
-
 }
-.TableHead{
+.TableFont{
+  font-size: 120%;
+}
+.TableHead {
   color: brown;
-
-    padding-bottom: 10px;
-
+  padding-bottom: 10px;
 }
 
 .middle-header {

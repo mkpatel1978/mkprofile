@@ -1,4 +1,3 @@
-
 .Bottom-Container {
   font-family: 'Dancing Script', serif;
   font-size: 120%;
@@ -6,17 +5,15 @@
   margin-top: 2rem;
 }
 
-
 .footer-link:link, .footer-link:visited {
   color: #fa697c;
   text-decoration: none;
-
 }
 
 .footer-link:hover {
   color: cornflowerblue;
 }
 
-.footer{
+.footer {
   color: #854836;
 }
