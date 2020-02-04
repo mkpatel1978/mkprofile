@@ -1,6 +1,61 @@
+@media (min-width: 768px) {
+  /* This part is only read by viewports wider than 1200 pixels */
+
+
+  .TableHead {
+    color: brown;
+    padding-bottom: 10px;
+    font-size: 2.9rem;
+  }
+
+    .TableStyle {
+      text-align: left;
+      padding: 0.2rem 3rem 0.2rem 0;
+      font-size: 2.9rem;
+    }
+
+}
+
+@media (min-width: 992px) {
+  /* This part is only read by viewports wider than 1200 pixels */
+
+
+  .TableHead {
+    color: brown;
+    padding-bottom: 10px;
+    font-size: 1rem;
+  }
+
+
+  .TableStyle {
+    text-align: left;
+    padding: 0.2rem 3rem 0.2rem 0;
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  /* This part is only read by viewports wider than 1200 pixels */
+
+
+  .TableHead {
+    color: brown;
+    padding-bottom: 10px;
+    font-size: 1rem;
+  }
+
+
+  .TableStyle {
+    text-align: left;
+    padding: 0.2rem 3rem 0.2rem 0;
+    font-size: 1rem;
+  }
+}
+
+
+
 .Middle-Container {
   font-family: 'Noto Serif', serif;
-  font-size: 120%;
   margin-left: 4rem;
   margin-top: 1rem;
 }
@@ -9,9 +64,7 @@
   text-align: left;
   padding: 0.2rem 3rem 0.2rem 0;
 }
-.TableFont{
-  font-size: 120%;
-}
+
 .TableHead {
   color: brown;
   padding-bottom: 10px;

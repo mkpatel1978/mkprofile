@@ -1,13 +1,17 @@
 /* Style of the different tags*/
 body {
-  /*  background-image: url("../images/Mayank.png");*/
+  /* background-image: url("../images/Background.jpg");*/
+
   background-color: #EAF6F6;
   margin: 0px;
+
+/*  background-repeat: no-repeat;
+  background-size: cover;*/
 }
 
 .Top-Container {
   font-family: 'Dancing Script', cursive;
-  font-size: 120%;
+  font-size: 1rem;
 }
 
 .Profile {
@@ -26,16 +30,15 @@ body {
 
 #Top-h1 {
   color: cornflowerblue;
-  font-size: 130%;
   width: 40rem;
   position: absolute;
   margin: -3rem auto 0 9rem;
 }
 
 .Top-content{
-  font-size: 1rem;
   width: 78rem;
 }
+
 
 #Top-link:link, #Top-link:visited {
   color: forestgreen;
