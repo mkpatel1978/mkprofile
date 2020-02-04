@@ -1,31 +1,23 @@
-@media (min-width: 768px) {
-  /* This part is only read by viewports wider than 1200 pixels */
-
-
+@media (min-width: 768px) and (orientation: portrait) {
   .TableHead {
     color: brown;
     padding-bottom: 10px;
     font-size: 2.9rem;
   }
 
-    .TableStyle {
-      text-align: left;
-      padding: 0.2rem 3rem 0.2rem 0;
-      font-size: 2.9rem;
-    }
-
+  .TableStyle {
+    text-align: left;
+    padding: 0.2rem 3rem 0.2rem 0;
+    font-size: 2.9rem;
+  }
 }
 
-@media (min-width: 992px) {
-  /* This part is only read by viewports wider than 1200 pixels */
-
-
+@media (min-width: 992px) and (orientation: portrait) {
   .TableHead {
     color: brown;
     padding-bottom: 10px;
     font-size: 1rem;
   }
-
 
   .TableStyle {
     text-align: left;
@@ -34,16 +26,12 @@
   }
 }
 
-@media (min-width: 1200px) {
-  /* This part is only read by viewports wider than 1200 pixels */
-
-
+@media (min-width: 1200px) and (orientation: portrait) {
   .TableHead {
     color: brown;
     padding-bottom: 10px;
     font-size: 1rem;
   }
-
 
   .TableStyle {
     text-align: left;
@@ -51,8 +39,6 @@
     font-size: 1rem;
   }
 }
-
-
 
 .Middle-Container {
   font-family: 'Noto Serif', serif;
