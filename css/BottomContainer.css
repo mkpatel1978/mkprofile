@@ -1,6 +1,24 @@
 .Bottom-Container {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.bottom-img {
+  width: 9rem;
+  border-radius: 6rem;
+}
+
+.bottom-icon {
+  width: 3rem;
+/*  margin-left: -2rem;
+  margin-top: 1rem;*/
+}
+
+.Bottom-Footer {
   font-family: 'Dancing Script', serif;
-  
+  font-size: 2rem;
   text-align: center;
   margin-top: 2rem;
 }
